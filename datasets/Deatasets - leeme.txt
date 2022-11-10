@@ -1,0 +1,10 @@
+
+https://rajpurkar.github.io/SQuAD-explorer/
+
+del link deben descargar los dataset y guardarlos en las siugentes carpetas del repositorio:
+
+datasets/indomain_train
+datasets/indomain_val
+datasets/oodomain_test
+datasets/oodomain_train
+datasets/oodomain_val
